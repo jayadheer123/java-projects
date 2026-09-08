@@ -1,1 +1,1 @@
-# java mini project and practice 
+# java mini projects
